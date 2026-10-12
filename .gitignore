@@ -1,0 +1,14 @@
+
+attendance.csv
+names.csv
+
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+
+__pycache__/
+*.pyc
+venv/
+.venv/
